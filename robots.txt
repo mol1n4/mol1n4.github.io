@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Cuando tengáis dominio, quitad el "#" y poned la dirección real:
+# Sitemap: https://www.TUDOMINIO.es/sitemap.xml
